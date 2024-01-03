@@ -551,3 +551,4 @@ systemctl restart nginx
 <img src="./devops/infra.png" alt="Infrastructure map" width="500" height="400">
 
 Credit for the Java App: [Vprofile Project on GitHub](https://github.com/hkhcoder/vprofile-project/tree/main)
+# denmo02
